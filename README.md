@@ -1,7 +1,9 @@
 # emotionapi
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.4.2.
+This project is the API for E-Motion IoT based analytic project, an interactive analytic dashboard and recommandation system for Elderly Care System (ECS) used in the project [SHINESeniors](http://shine.com.sg/)
 
+<!-- This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.4.2.
+ -->
 ## Getting Started
 
 ### Prerequisites
